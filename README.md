@@ -206,5 +206,3 @@ open seceng-portal/index.html
 - [AbuseIPDB API](https://www.abuseipdb.com/api) — IP reputation and abuse reports
 
 ---
-
-*Built with Claude · Updated June 2025*
